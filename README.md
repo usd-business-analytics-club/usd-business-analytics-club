@@ -8,7 +8,7 @@ Welcome to the official repository for the **USD Business Analytics Club** – a
 
 Explore real-world data analytics project ideas. Each folder includes instructions and sample datasets so you can dive right in:
 
-- 📊 [NCAA Basketball Game Dashboard](./projects/ncaa-basketball-visualization)  
+- 📊 [NCAA Basketball Game Dashboard](ncaa-basketball-visualization)  
   *Interactive visualizations of team performance, fouls, and referee dynamics.*
 
 - 🚕 [Insights from Failed Orders – Gett](./projects/Failed_Order_get)  
