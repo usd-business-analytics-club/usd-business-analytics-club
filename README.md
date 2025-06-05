@@ -14,12 +14,13 @@ Each project includes instructions, and datasets you can build from.
 
 ---
 
-## 📂 Resources (Coming Soon)
+## 📂 Resources (Building)
 
 We’ll be adding detailed resources under this section shortly. Stay tuned for:
 - 📘 **Books**
 - 🧠 **Blogs**
 - 📚 **Guides**
+    ## 👉 (Excel Guide Here]([url](https://github.com/usd-business-analytics-club/excel-guide)))
 - 🧾 **Project Briefs**
 
 ---
