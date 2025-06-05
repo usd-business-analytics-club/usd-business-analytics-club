@@ -8,10 +8,10 @@ Welcome to the official repository for the **USD Business Analytics Club** – a
 
 Explore real-world data analytics project ideas. Each folder includes instructions and sample datasets so you can dive right in:
 
-- 📊 [NCAA Basketball Game Dashboard](./ncaa-basketball-visualization)  
+- 📊 [NCAA Basketball Game Dashboard](./projects/ncaa-basketball-visualization)  
   *Interactive visualizations of team performance, fouls, and referee dynamics.*
 
-- 🚕 [Insights from Failed Orders – Gett](./Failed_Order_get)  
+- 🚕 [Insights from Failed Orders – Gett](./projects/Failed_Order_get)  
   *Investigate order rejections, cancellations, and matching logic in a ride-hailing dataset.*
 
 > More projects coming soon...
@@ -25,10 +25,6 @@ We’ll be adding detailed resources under this section shortly. Stay tuned for:
 - 🧠 **Blogs**
 - 📚 **Guides**
 - 🧾 **Project Briefs**
-
-For now, explore full write-ups here:
-- [NCAA Dashboard Instructions](./ncaa-basketball-visualization/instructions.md)  
-- [Gett Failed Orders Project](./Failed_Order_get/instructions.md)
 
 ---
 
@@ -46,4 +42,5 @@ For now, explore full write-ups here:
 ## 🤝 Contributing
 
 Have an idea for a new project? Want to share a dataset or help a peer?  
-Feel free to fork this repo, suggest edits, or reach out to us directly.
+Feel free to fork this repo, suggest edits, or reach out to us directly. 
+Email : satkar.karki@coyotes.usd.edu
