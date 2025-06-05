@@ -7,7 +7,7 @@ Welcome to the official repository for the **USD Business Analytics Club** – a
 ## 🚀 Projects
 
 Explore real-world data analytics project ideas housed in our projects directory:  
-👉 [**View Projects Folder**](https://github.com/usd-business-analytics-club/projects/tree/main/projects)
+👉 [**View Projects Folder**](https://github.com/usd-business-analytics-club/projects/)
 
 
 Each project includes instructions, starter code, and datasets you can build from.
