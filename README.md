@@ -10,7 +10,7 @@ Explore real-world data analytics project ideas housed in our projects directory
 👉 [**View Projects Folder**](https://github.com/usd-business-analytics-club/projects/)
 
 
-Each project includes instructions, starter code, and datasets you can build from.
+Each project includes instructions, and datasets you can build from.
 
 ---
 
