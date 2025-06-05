@@ -5,19 +5,6 @@ This space is dedicated to sharing learning resources, collaborative student pro
 
 ---
 
-## 🎯 About the Club
-
-The USD Business Analytics Club is a student-led organization aimed at fostering analytical thinking, real-world problem solving, and career readiness through data.  
-We bring together students passionate about business analytics, data science, and technology to:
-
-- Work on hands-on analytics projects  
-- Host guest speakers and workshops  
-- Share curated learning materials  
-- Connect with industry professionals  
-
-Whether you're a beginner or experienced in data tools, there's a place for you here.
-
----
 
 ## 📁 Repository Structure
 
@@ -27,6 +14,15 @@ Copy
 Edit
 
 ---
+## 📄 Analytics Whitepapers
+
+- [Competing on Analytics (Harvard Business Review)](https://hbr.org/2006/01/competing-on-analytics)
+- [Analytics: The Real World Use of Big Data (IBM)](https://www.bdvc.nl/images/Rapporten/GBE03519USEN.PDF)
+- [Tidy Data (Hadley Wickham, RStudio)](https://vita.had.co.nz/papers/tidy-data.pdf)
+- [A Five-Layered Business Intelligence Architecture (IBIMA)](https://ibimapublishing.com/articles/CIBIMA/2011/695619/695619.pdf)
+- [Data Storytelling: The Essential Data Science Skill Everyone Needs (Forbes)](https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/)
+- [The Age of Analytics: Competing in a Data-Driven World (McKinsey)](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-age-of-analytics-competing-in-a-data-driven-world)
+
 
 ## 🚀 Getting Involved
 
