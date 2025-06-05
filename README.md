@@ -20,7 +20,7 @@ We’ll be adding detailed resources under this section shortly. Stay tuned for:
 - 📘 **Books**
 - 🧠 **Blogs**
 - 📚 **Guides**
-    ## 👉 (Excel Guide Here]([url](https://github.com/usd-business-analytics-club/excel-guide)))
+    ## 👉 [Excel Guide Here](https://github.com/usd-business-analytics-club/excel-guide)
 - 🧾 **Project Briefs**
 
 ---
