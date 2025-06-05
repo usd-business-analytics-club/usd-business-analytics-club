@@ -21,11 +21,6 @@ Whether you're a beginner or experienced in data tools, there's a place for you 
 
 ## 📁 Repository Structure
 
-.
-├── constitution/ → Club constitution and governance documents
-├── resources/ → Learning materials, reading lists, career prep
-├── projects/ → Student-led analytics projects and datasets
-└── README.md → This file
 
 yaml
 Copy
